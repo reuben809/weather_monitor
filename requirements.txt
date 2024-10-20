@@ -1,0 +1,12 @@
+
+numpy
+
+requests
+python-dotenv
+SQLAlchemy
+matplotlib
+pytest
+mypy
+streamlit
+plotly
+pandas
